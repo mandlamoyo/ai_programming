@@ -13,7 +13,7 @@ dim = (7,6)
 '''
 TODO:
 	[X] Implement basic game logic
-	[] Setup project GIT repository
+	[X] Setup project GIT repository
 	[] Implement play system (ie players, game loop)
 	[] Implement state node class
 	[] Implement random AI player

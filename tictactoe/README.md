@@ -1,3 +1,6 @@
+Tic Tac Toe
+===========
+
 This is an implementation of the game Tic Tac Toe, also known as Noughts and Crosses.
 
 This is my initial attempt to implement a game AI, using the Minimax algorithm and Alpha-Beta pruning.
